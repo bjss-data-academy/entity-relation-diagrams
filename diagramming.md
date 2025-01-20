@@ -54,12 +54,6 @@ We see the column is highlighted in bold, and there is a small padlock icon show
 
 ## One to one relation
 
-To show a one to one relation between two tables, we introduce a foreign key column.
-
-Graphically
-
-> Be specific: the line should align with the actual PK and FK on the diagram
-
 Let's give our `User` a profile page. We create a table `Profile` to store their mugshot as a URL, and a lengthy description of their (self-penned) grandiose achievements.
 
 Each user has one and only one profile, making this a one-to-one relationship.
@@ -68,12 +62,16 @@ We model this using a _line_ joining the column in `User` that references the pr
 
 ![Showing one to one link between user and profile](/images/one-to-one.png)
 
+> Be specific: the line should align with the actual PK and FK on the diagram
+
 Notice the details on the line:
 
 - Each end is labelled with a digit '1'
 - The line has a short single stroke crossing through at each end
 
 These details show the _cardinality_ of the relation: one to one.
+
+![Crow versus crow's feet](/images/crows-feet-crow.jpg)
 
 ## One to many relation
 
