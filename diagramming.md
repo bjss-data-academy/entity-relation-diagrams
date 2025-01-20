@@ -48,9 +48,9 @@ Let's add a surrogate primary key of `user_id` into our `user` table.
 
 Primary keys are repesented as a column in our ERD, but are highlighted to show their importance:
 
-![Primary key column user_id is shown in bold with a small padlock icon](/images/table-primary-key.png)
+![Primary key column user_id is shown in bold with a small key icon](/images/table-primary-key.png)
 
-We see the column is highlighted in bold, and there is a small padlock icon shown.
+We see the column is highlighted in bold, and there is a small key icon shown.
 
 ## One to one relation
 
