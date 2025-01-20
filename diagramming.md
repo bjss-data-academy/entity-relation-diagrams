@@ -73,6 +73,8 @@ These details show the _cardinality_ of the relation: one to one.
 
 ![Crow versus crow's feet](/images/crows-feet-crow.jpg)
 
+_(ed: that is shockingly poor even by your low standards of meme)_
+
 ## One to many relation
 
 Let's add a `Post` table to hold the overflowing wit and wisdom of our `User`. It will store the text of their writing plus the date and time when it was posted:
