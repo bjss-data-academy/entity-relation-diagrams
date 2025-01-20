@@ -107,7 +107,7 @@ This is a many-to-many relationship ebtween `user` and `post`:
 
 Using a link table called `Complaint` to represent this many-to-many relationship, the ERD looks like this:
 
-![Image of table linking User to Post, named ](/images/many-to-many.png)
+![Image of table linking User to Post ](/images/many-to-many.png)
 
 We've added some columns into the link table `Complaint` which are `link attributes`.
 
