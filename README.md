@@ -8,9 +8,9 @@ We will gain practical experience using the excellent online ERD tool dbdiagram.
 
 ## Prerequisites
 
-Knowledge of SQL basics: table, row, column, primary key, relations.
+Knowledge of relational basics: table, row, column, primary key, relations.
 
-See our guide at [SQL Fundamentals](https://github.com/bjssacademy/fundamentals-sql) for more details and a refresher.
+See our guide at [SQL Fundamentals](https://github.com/bjssacademy/fundamentals-sql) for more.
 
 # Next
 
