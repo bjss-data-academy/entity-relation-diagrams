@@ -10,7 +10,7 @@ We will gain practical experience using the excellent online ERD tool dbdiagram.
 
 Knowledge of relational basics: table, row, column, primary key, relations.
 
-See our guide at [SQL Fundamentals](https://github.com/bjssacademy/fundamentals-sql) for more.
+See our guide at [SQL Fundamentals](https://github.com/bjssacademy/fundamentals-sql/blob/main/readme.md) for more.
 
 # Next
 
