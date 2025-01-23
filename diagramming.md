@@ -113,6 +113,13 @@ We've added some columns into the link table `Complaint` which are `link attribu
 
 These are attributes belonging to the link itself - the complaint. In our case, this is the date the complaint was created, stored in column `created` as a `datetime` type.
 
+## Summary of crow's feet symbols
+
+![Crow's feet images](/images/cardinality-cros-feet.png)
+
+_Credit Wikipedia_
+
+
 # Next
 
 [Exercise](/exercise.md)
