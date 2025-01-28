@@ -47,6 +47,8 @@ Each group chat is closed to new comments after 14 days. The data stored needs e
 
 Update the ERD diagram.
 
+_hint: the image is stored on a web server somewhere else. We only need to store the url of the image as a string_
+
 # Next
 
 [Back to Contents](/contents.md)
