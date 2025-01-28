@@ -31,7 +31,7 @@ Customers are known by their name and email address.
 
 Customers may place an order to the warehouse. An order needs to record the date the order was placed, which customer it was for and the Products they wish to buy.
 
-_hint: think of a paper order form with many line items listed, one per line. Having an order line item table simplifies this_
+_hint: think of a paper order form with many line items listed, one per line. Having an order line item table simplifies this problem_
 
 # Exercise 2
 
