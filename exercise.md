@@ -49,6 +49,10 @@ Update the ERD diagram.
 
 _hint: the image is stored on a web server somewhere else. We only need to store the url of the image as a string_
 
+_hint: introduce a link table Participant to link a Group Chat with many Customers_
+
+_hint: introduce a link table GroupChatMessage to link a group chat to its many messages_
+
 # Next
 
 [Back to Contents](/contents.md)
