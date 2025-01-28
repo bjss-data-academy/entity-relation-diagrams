@@ -4,7 +4,7 @@ Let's apply what we've learned and create an ERD.
 
 ## Using dbdiagram
 
-Take a look at the previous [ERD](https://dbdiagram.io/d/ERD-Course-678e2dc76b7fa355c36da566) built using the [dbdiagram tool](dbdiagram.io)
+Take a look at the previous [ERD](https://dbdiagram.io/d/ERD-Course-678e2dc76b7fa355c36da566) built using the [dbdiagram tool](https://dbdiagram.io)
 
 Notice the left-hand pane.
 
