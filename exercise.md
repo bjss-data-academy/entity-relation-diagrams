@@ -41,7 +41,7 @@ Each customer can enter a short message of up to 200 characters length. The mess
 
 A customer profile shows their uploaded image and bio text.
 
-Messages are part of a group chat, which any customer can enter or leave at any time. Upon joining, the full group chat history of messages will be available to them.
+Messages are part of one group chat, which any customer can enter or leave at any time. Upon joining, the full group chat history of messages will be available to them.
 
 Each group chat is closed to new comments after 14 days. The data stored needs enough information for an application to do this.
 
@@ -51,7 +51,6 @@ _hint: the image is stored on a web server somewhere else. We only need to store
 
 _hint: introduce a link table Participant to link a Group Chat with many Customers_
 
-_hint: introduce a link table GroupChatMessage to link a group chat to its many messages_
 
 # Next
 
