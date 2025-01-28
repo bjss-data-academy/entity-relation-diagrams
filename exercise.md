@@ -43,6 +43,8 @@ A customer profile shows their uploaded image and bio text.
 
 Messages are part of one group chat, which any customer can enter or leave at any time. Upon joining, the full group chat history of messages will be available to them.
 
+Group Chats have a name, which is how they can be found and joined.
+
 Each group chat is closed to new comments after 14 days. The data stored needs enough information for an application to do this.
 
 Update the ERD diagram.
